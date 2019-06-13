@@ -1,0 +1,1849 @@
+[
+  {
+    "artists": [{ "id": "6x2LnllRG5uGarZMsD4iO8", "name": "Thomas Rhett" }],
+    "id": "5gnWhEFNbtCn0RLG2cp90g",
+    "name": "Center Point Road",
+    "releaseDate": "2019-05-31",
+    "popularity": 75,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/98ae9e8dd0d33e18f885e986a09cdc606c58e7a8",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/cd871dfb4a47fa2973bee2b5cbb940a107afbb74",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "2aXXhuiXh0OcpyZVFJthCg",
+        "name": "Up",
+        "number": 1,
+        "duration": 207099,
+        "explicit": false
+      },
+      {
+        "id": "0UsEU29nx7wcyNEsGIA6qc",
+        "name": "Don’t Threaten Me With A Good Time",
+        "number": 2,
+        "duration": 215567,
+        "explicit": false
+      },
+      {
+        "id": "3hhSnbFhuGnXieFa1ql61R",
+        "name": "Blessed",
+        "number": 3,
+        "duration": 214173,
+        "explicit": false
+      },
+      {
+        "id": "2KqJC0koTBUyDlsMt5ok1V",
+        "name": "Look What God Gave Her",
+        "number": 4,
+        "duration": 168960,
+        "explicit": false
+      },
+      {
+        "id": "7p9zIciejn8GXnsRdG9EQR",
+        "name": "Center Point Road",
+        "number": 5,
+        "duration": 216960,
+        "explicit": false
+      },
+      {
+        "id": "0kjnvAqQvdjN69aDTGlceq",
+        "name": "That Old Truck",
+        "number": 6,
+        "duration": 212026,
+        "explicit": false
+      },
+      {
+        "id": "5hsnjHTK4f3DlVHWOUHYC2",
+        "name": "VHS",
+        "number": 7,
+        "duration": 196293,
+        "explicit": false
+      },
+      {
+        "id": "6YviFs2g3bKgqCTq4CFWAm",
+        "name": "Notice",
+        "number": 8,
+        "duration": 222853,
+        "explicit": false
+      },
+      {
+        "id": "0MPP9NPe5C7dBCdXyRB9ie",
+        "name": "Sand",
+        "number": 9,
+        "duration": 162760,
+        "explicit": false
+      },
+      {
+        "id": "7idmHTAQQPUFqdjXkoooXD",
+        "name": "Beer Can’t Fix",
+        "number": 10,
+        "duration": 209733,
+        "explicit": false
+      },
+      {
+        "id": "7ycXmXGCFOexpvlIaAgiga",
+        "name": "Things You Do For Love",
+        "number": 11,
+        "duration": 206853,
+        "explicit": false
+      },
+      {
+        "id": "3LK6wDkhbTyg8GhJidU9oC",
+        "name": "Remember You Young",
+        "number": 12,
+        "duration": 180466,
+        "explicit": false
+      },
+      {
+        "id": "6FwNBb0kdxiKYLJR1cfZu1",
+        "name": "Don’t Stop Drivin’",
+        "number": 13,
+        "duration": 183013,
+        "explicit": false
+      },
+      {
+        "id": "6ryhhSGlWOJe7ypTXWdCLG",
+        "name": "Barefoot",
+        "number": 14,
+        "duration": 180600,
+        "explicit": false
+      },
+      {
+        "id": "1HGhRqBz4D53D6VwOlBtCu",
+        "name": "Dream You Never Had",
+        "number": 15,
+        "duration": 202306,
+        "explicit": false
+      },
+      {
+        "id": "0CKt2RA2gYQqUKejm0Rq0m",
+        "name": "Almost",
+        "number": 16,
+        "duration": 191591,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "0HkcYmcjrBR3SCw9Ld5VZk", "name": "Calboy" }],
+    "id": "6gH6TAkytLzyXYiTbJQL0O",
+    "name": "Wildboy",
+    "releaseDate": "2019-05-31",
+    "popularity": 62,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/d2e360d423a32b343316e8387c481869014b6fee",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/9ebca79e1dc442b2053ae406040f2a29cbb5b46b",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "7rvyVWja33WG9R97oeJAjx",
+        "name": "Envy Me",
+        "number": 1,
+        "duration": 120133,
+        "explicit": true
+      },
+      {
+        "id": "0J6UvGEMuJvzPKvlDbBvLz",
+        "name": "Adam & Eve",
+        "number": 2,
+        "duration": 179466,
+        "explicit": true
+      },
+      {
+        "id": "2BfpauGLjSrXfsplJLMli7",
+        "name": "Love Me",
+        "number": 3,
+        "duration": 224666,
+        "explicit": true
+      },
+      {
+        "id": "79wb40ryIvsCsoYo0qg6kA",
+        "name": "Unjudge Me (feat. Moneybagg Yo)",
+        "number": 4,
+        "duration": 206440,
+        "explicit": true
+      },
+      {
+        "id": "7iFtAyU9ATc7GwBntnGmJv",
+        "name": "Ghetto America (feat. Yo Gotti & Lil Durk)",
+        "number": 5,
+        "duration": 277400,
+        "explicit": true
+      },
+      {
+        "id": "2g21mBQjfFsitbKg3PRyIa",
+        "name": "Caroline (feat. Polo G)",
+        "number": 6,
+        "duration": 157400,
+        "explicit": true
+      },
+      {
+        "id": "3pXlKlRGBV5Ib7ioYIcL2O",
+        "name": "Nina",
+        "number": 7,
+        "duration": 144186,
+        "explicit": true
+      },
+      {
+        "id": "4eSPwTzyVvjHww6izZJ8Oo",
+        "name": "Swing",
+        "number": 8,
+        "duration": 119440,
+        "explicit": true
+      },
+      {
+        "id": "41qvyd8cnQbN9aOPoJSNhp",
+        "name": "Chariot (feat. Meek Mill, Lil Durk & Young Thug)",
+        "number": 9,
+        "duration": 243520,
+        "explicit": true
+      },
+      {
+        "id": "6hDxMbB7AmXwXQVL0wtcxO",
+        "name": "12",
+        "number": 10,
+        "duration": 195333,
+        "explicit": true
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "6fxyWrfmjcbj5d12gXeiNV", "name": "Denzel Curry" }],
+    "id": "6PkSBdx19zarn4ae1D08gA",
+    "name": "ZUU",
+    "releaseDate": "2019-05-31",
+    "popularity": 75,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/683e7fd26f5454047f0c8638bb5b18499e09656c",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/7cfdfc54140aa0125670438ce55fa41b58a206b5",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "5sG65w8uKtjsJw7nc845Nc",
+        "name": "ZUU",
+        "number": 1,
+        "duration": 126000,
+        "explicit": true
+      },
+      {
+        "id": "2QbGvQssb0VLLS4x5NOmyJ",
+        "name": "RICKY",
+        "number": 2,
+        "duration": 147866,
+        "explicit": true
+      },
+      {
+        "id": "0shSP8DgseLewHgAiMC4UL",
+        "name": "WISH Feat. Kiddo Marv",
+        "number": 3,
+        "duration": 192013,
+        "explicit": true
+      },
+      {
+        "id": "0pA0rcw7ci5X5XHrnBpkdn",
+        "name": "BIRDZ Feat. Rick Ross",
+        "number": 4,
+        "duration": 204386,
+        "explicit": true
+      },
+      {
+        "id": "2TqfASuL5JRds7bJX01PdZ",
+        "name": "AUTOMATIC",
+        "number": 5,
+        "duration": 182520,
+        "explicit": true
+      },
+      {
+        "id": "2FTOLKjQUswhpdMFq15Raf",
+        "name": "SPEEDBOAT",
+        "number": 6,
+        "duration": 222533,
+        "explicit": true
+      },
+      {
+        "id": "2wFwbyCz96QFLm2L6esbgf",
+        "name": "BUSHY B INTERLUDE",
+        "number": 7,
+        "duration": 65640,
+        "explicit": true
+      },
+      {
+        "id": "3kUV3AVKhoWTNFxdFkCViB",
+        "name": "YOO",
+        "number": 8,
+        "duration": 64493,
+        "explicit": true
+      },
+      {
+        "id": "5OO7ybh0GQlXslHX4U4Vgr",
+        "name": "CAROLMART Feat. Ice Billion Berg",
+        "number": 9,
+        "duration": 164120,
+        "explicit": true
+      },
+      {
+        "id": "27F7BWz4WuC8GuSIcFbx1a",
+        "name": "SHAKE 88 Feat. Sam Sneak",
+        "number": 10,
+        "duration": 147720,
+        "explicit": true
+      },
+      {
+        "id": "0L1RASB4kWt9VDqJxX4yBF",
+        "name": "BLACKLAND 66.6",
+        "number": 11,
+        "duration": 49226,
+        "explicit": true
+      },
+      {
+        "id": "5WtMpQgVIeZq06bXbYJO01",
+        "name": "P.A.T. Feat. PlayThatBoiZay",
+        "number": 12,
+        "duration": 180480,
+        "explicit": true
+      }
+    ]
+  },
+  {
+    "artists": [
+      { "id": "3nlpTZci9O5W8RsNoNH559", "name": "Juan Luis Guerra 4.40" }
+    ],
+    "id": "4jt7MDWCNhXZ09bU03NGgk",
+    "name": "Literal",
+    "releaseDate": "2019-05-31",
+    "popularity": 56,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/754e54defc9ec854427858967952dfd3242fad17",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/49c3676f36a0c24bdb2d3e68b96dddf34b667d3b",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "1fCD8KvWR3y0Y80at1i4Le",
+        "name": "Kitipun",
+        "number": 1,
+        "duration": 216533,
+        "explicit": false
+      },
+      {
+        "id": "0UnJphaDGpljP59lXRMaiE",
+        "name": "Lámpara Pa' Mis Pies",
+        "number": 2,
+        "duration": 180266,
+        "explicit": false
+      },
+      {
+        "id": "7juQpjuFXQlFIwDiiVXiSh",
+        "name": "Cantando Bachata",
+        "number": 3,
+        "duration": 179360,
+        "explicit": false
+      },
+      {
+        "id": "1n8TZuzLCWyTDELCr38TTr",
+        "name": "Má Pa' Lante Vive Gente",
+        "number": 4,
+        "duration": 199506,
+        "explicit": false
+      },
+      {
+        "id": "5hdY80BbEclOpXJN1JAp16",
+        "name": "I Love You More",
+        "number": 5,
+        "duration": 196200,
+        "explicit": false
+      },
+      {
+        "id": "0DeMaV8nrFWNYN4w56xm8Y",
+        "name": "Corazón Enamorado",
+        "number": 6,
+        "duration": 189093,
+        "explicit": false
+      },
+      {
+        "id": "0OiOitRZ3nJwYnW6aVzhNb",
+        "name": "Son A Mamá",
+        "number": 7,
+        "duration": 184440,
+        "explicit": false
+      },
+      {
+        "id": "5ovKbJJUidkpAa1OxYeqao",
+        "name": "No Tiene Madre",
+        "number": 8,
+        "duration": 203426,
+        "explicit": false
+      },
+      {
+        "id": "1U7onzKQl5rTrfjvdjEaV9",
+        "name": "Me Preguntas",
+        "number": 9,
+        "duration": 183706,
+        "explicit": false
+      },
+      {
+        "id": "5BPFk54DclePQtaMYHKAKq",
+        "name": "El Primer Baile",
+        "number": 10,
+        "duration": 212000,
+        "explicit": false
+      },
+      {
+        "id": "4agadYyhCHXU3qIhHam7ZI",
+        "name": "Merengue De Cuna",
+        "number": 11,
+        "duration": 126053,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "2kQnsbKnIiMahOetwlfcaS", "name": "Raveena" }],
+    "id": "5zM1YPLVNvxe6S8I3MIAbg",
+    "name": "Lucid",
+    "releaseDate": "2019-05-31",
+    "popularity": 55,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/1f2f3976c4a1fdcc246ff0b13efe21334859db9e",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/89f40b19abdeee7819219d53cd4f882b27570998",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "70LJDJUseObPU5czxfHYkB",
+        "name": "Hypnosis",
+        "number": 1,
+        "duration": 96000,
+        "explicit": false
+      },
+      {
+        "id": "2T4xw1hmipgHyFQXbWBfKD",
+        "name": "Nectar",
+        "number": 2,
+        "duration": 266029,
+        "explicit": false
+      },
+      {
+        "id": "7qKWAtneIWuObMgaj57yvx",
+        "name": "Stronger",
+        "number": 3,
+        "duration": 251298,
+        "explicit": false
+      },
+      {
+        "id": "4cf0fmpBq8kGEC8ccQHD1O",
+        "name": "Salt Water",
+        "number": 4,
+        "duration": 276701,
+        "explicit": false
+      },
+      {
+        "id": "2qhahbZ5iMNmKIFCcVDGur",
+        "name": "Stone",
+        "number": 5,
+        "duration": 319436,
+        "explicit": false
+      },
+      {
+        "id": "7y8iLmxJCdvy43daCDo1YM",
+        "name": "Stone (Reprise)",
+        "number": 6,
+        "duration": 58280,
+        "explicit": false
+      },
+      {
+        "id": "20VdNP6JaftxMQE2AxWCcS",
+        "name": "Mama",
+        "number": 7,
+        "duration": 240001,
+        "explicit": false
+      },
+      {
+        "id": "4x6g5OuktRJPVC80unBdQl",
+        "name": "Bloom",
+        "number": 8,
+        "duration": 326134,
+        "explicit": true
+      },
+      {
+        "id": "4cwJYLZeVMTjF6o0Nzk9nq",
+        "name": "Floating (feat. Hope Tala)",
+        "number": 9,
+        "duration": 290866,
+        "explicit": false
+      },
+      {
+        "id": "2GWMfWHvLixgTo9s5NGn3w",
+        "name": "Still Dreaming",
+        "number": 10,
+        "duration": 261238,
+        "explicit": false
+      },
+      {
+        "id": "7d764yeYwCDr6injUcEh18",
+        "name": "Nani's Interlude",
+        "number": 11,
+        "duration": 104349,
+        "explicit": false
+      },
+      {
+        "id": "12Aq4Ryc1rZQ0hWnT8wZNe",
+        "name": "Petal",
+        "number": 12,
+        "duration": 187163,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "1nf5yEVCfMbqm1OCYpntBT", "name": "Prince Fox" }],
+    "id": "072NiWj2csEY7y9Z7Q8Nbc",
+    "name": "ALL THIS MUSIC, Vol. 1",
+    "releaseDate": "2019-05-31",
+    "popularity": 42,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/5ec10259675a8bf4e5f620fc0149ddc289296105",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/7a991807b6a48b5c5f6ba353c6ed74e4cedf858a",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "7mbm1X9vwNoZYrPI46MBsx",
+        "name": "Come Thru",
+        "number": 1,
+        "duration": 201789,
+        "explicit": false
+      },
+      {
+        "id": "1B6lyzIgsBvdGEoJ6xV0xC",
+        "name": "Trust",
+        "number": 2,
+        "duration": 203400,
+        "explicit": false
+      },
+      {
+        "id": "2aivSjmdKjg8pp2ssdSSkh",
+        "name": "Space (feat. Quinn XCII)",
+        "number": 3,
+        "duration": 177000,
+        "explicit": false
+      },
+      {
+        "id": "6q26hrr2PhP07RndPHzkf2",
+        "name": "Tell Me",
+        "number": 4,
+        "duration": 154285,
+        "explicit": true
+      },
+      {
+        "id": "3ZINkBSeYSPrOkuCuuA1m6",
+        "name": "Fake It",
+        "number": 5,
+        "duration": 189473,
+        "explicit": false
+      },
+      {
+        "id": "3pLKpLkIucNCH6t6luQTyQ",
+        "name": "Just Call (feat. Bella Thorne)",
+        "number": 6,
+        "duration": 168000,
+        "explicit": true
+      },
+      {
+        "id": "3Lc8Xm0rp4eQXqEoZghGmY",
+        "name": "Five Months Later",
+        "number": 7,
+        "duration": 181714,
+        "explicit": false
+      },
+      {
+        "id": "0RhXEGfHi41GJKgaDrWrJG",
+        "name": "Problem (feat. Camden & Brigetta)",
+        "number": 8,
+        "duration": 171111,
+        "explicit": false
+      },
+      {
+        "id": "7vXPbaUh1j89GJCkVyax2Q",
+        "name": "Rock Paper Scissors",
+        "number": 9,
+        "duration": 186625,
+        "explicit": false
+      },
+      {
+        "id": "0RIBtorH6OA1F8ynFVDS4V",
+        "name": "Runnin",
+        "number": 10,
+        "duration": 247868,
+        "explicit": false
+      },
+      {
+        "id": "1dxF8CA391h1Cbho2gZVa0",
+        "name": "Time Alone (feat. The Griswolds)",
+        "number": 11,
+        "duration": 214344,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "2Dr2zHoPEuASW1kOODc5I2", "name": "Carousel Kings" }],
+    "id": "4eKXJrrx1JkMeyv3b0YDfM",
+    "name": "Plus Ultra",
+    "releaseDate": "2019-05-31",
+    "popularity": 39,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/8bee8792fcef381bc1090a49c211db737c018e7f",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/35f03d4054040d9791677e24958dd4a0dbd10034",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "5WLvGmjfyAEYCvFNsLon0i",
+        "name": "Plus Ultra",
+        "number": 1,
+        "duration": 195386,
+        "explicit": false
+      },
+      {
+        "id": "3AKPGi1T8GigxXc4t1OXAd",
+        "name": "Move Slow",
+        "number": 2,
+        "duration": 188120,
+        "explicit": false
+      },
+      {
+        "id": "53xVGx7DZZBk00VT2ZUr6t",
+        "name": "Shellshocked",
+        "number": 3,
+        "duration": 242080,
+        "explicit": false
+      },
+      {
+        "id": "5JbX8UR7pEULn4OmPov5D8",
+        "name": "Code Breaker (Smile)",
+        "number": 4,
+        "duration": 207826,
+        "explicit": false
+      },
+      {
+        "id": "6D8zMRWTIKfPPdjjcwFJ8a",
+        "name": "Ghost",
+        "number": 5,
+        "duration": 228013,
+        "explicit": false
+      },
+      {
+        "id": "7zNhN4c6PstC4WhQqXWlBC",
+        "name": "Lock Meowt",
+        "number": 6,
+        "duration": 200413,
+        "explicit": false
+      },
+      {
+        "id": "2vQrymiBkPh2udL3yYBwlB",
+        "name": "Great White Buffalo",
+        "number": 7,
+        "duration": 195760,
+        "explicit": false
+      },
+      {
+        "id": "3rISvyrLCDov4xzOEepqRK",
+        "name": "Truth Seekers",
+        "number": 8,
+        "duration": 192853,
+        "explicit": false
+      },
+      {
+        "id": "630m6yEPfdqskiPHRBovdB",
+        "name": "Shelter",
+        "number": 9,
+        "duration": 244146,
+        "explicit": false
+      },
+      {
+        "id": "1Vwx2zKpUpozYC1JcReAfv",
+        "name": "Monarch",
+        "number": 10,
+        "duration": 215346,
+        "explicit": false
+      },
+      {
+        "id": "2k2YbI88v0qzOurHlpYa1t",
+        "name": "Jamais Vu",
+        "number": 11,
+        "duration": 229426,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "1fQWUHoSWhlrc9rmHi2xnE", "name": "Nbdy" }],
+    "id": "6xt85HTRh8NUnXWO4NO8Yv",
+    "name": "Admissions",
+    "releaseDate": "2019-05-31",
+    "popularity": 44,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/4a2b0edd83a09fe1e4701e2f4c42815c0ea63f39",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/9303239a39c71ed434d9a94443547d010c18f85d",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "48AKzGDS7ut5z7iyJr1YQs",
+        "name": "Admissions",
+        "number": 1,
+        "duration": 197296,
+        "explicit": true
+      },
+      {
+        "id": "1MhR9xs5ADjzpbdqdfdnDL",
+        "name": "Warning",
+        "number": 2,
+        "duration": 186048,
+        "explicit": true
+      },
+      {
+        "id": "4DLcopmqvmnDAumU29ltzE",
+        "name": "Let Me Down (feat. YBN Cordae)",
+        "number": 3,
+        "duration": 199500,
+        "explicit": true
+      },
+      {
+        "id": "6V5a3ThVc02MC4kwdVF1Jv",
+        "name": "Used To",
+        "number": 4,
+        "duration": 256744,
+        "explicit": true
+      },
+      {
+        "id": "4GMeccbmlt9djRr2m25bwu",
+        "name": "If I Should Die",
+        "number": 5,
+        "duration": 200912,
+        "explicit": true
+      },
+      {
+        "id": "0Q09YHxX64i4sTCn0XN0iY",
+        "name": "Battlezone",
+        "number": 6,
+        "duration": 232816,
+        "explicit": false
+      },
+      {
+        "id": "5FlqsY5BND7p8Ju5emAxiN",
+        "name": "D.U.I.",
+        "number": 7,
+        "duration": 234656,
+        "explicit": true
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "3KEe5d2p5jKihMMvuXVhr1", "name": "Duff McKagan" }],
+    "id": "1d1D733WsfVoyX4Hek4Wns",
+    "name": "Tenderness",
+    "releaseDate": "2019-05-31",
+    "popularity": 41,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/5d0743a3d015e8a7b56334806d252df39864430d",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/4326142d5b799a300b057b2118ddd3d973b916b0",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "3nFZ55F2rLClsVOcfojhzV",
+        "name": "Tenderness",
+        "number": 1,
+        "duration": 243165,
+        "explicit": false
+      },
+      {
+        "id": "7kLiWTib5cODSZrJjLjiPZ",
+        "name": "It's Not Too Late",
+        "number": 2,
+        "duration": 249321,
+        "explicit": false
+      },
+      {
+        "id": "43RmP7BwuXCyDDv8osgWGu",
+        "name": "Wasted Heart",
+        "number": 3,
+        "duration": 281207,
+        "explicit": false
+      },
+      {
+        "id": "21D1PJCfxoaA0hFHs8qAYq",
+        "name": "Falling Down",
+        "number": 4,
+        "duration": 190730,
+        "explicit": false
+      },
+      {
+        "id": "3OtpaYSuIBImqQZw43G3D1",
+        "name": "Last September",
+        "number": 5,
+        "duration": 381374,
+        "explicit": true
+      },
+      {
+        "id": "51dn93Dkp0gnI8GO5p2dkq",
+        "name": "Chip Away",
+        "number": 6,
+        "duration": 201626,
+        "explicit": true
+      },
+      {
+        "id": "4QAD5rvGv1zLKfc6ZPdc3b",
+        "name": "Cold Outside",
+        "number": 7,
+        "duration": 282493,
+        "explicit": false
+      },
+      {
+        "id": "6NzQJvOwCW90nYEP3qZhbd",
+        "name": "Feel",
+        "number": 8,
+        "duration": 278040,
+        "explicit": false
+      },
+      {
+        "id": "1k5TjkC9ZVXAg2F0O8qYxH",
+        "name": "Breaking Rocks",
+        "number": 9,
+        "duration": 182827,
+        "explicit": false
+      },
+      {
+        "id": "0aTuQoDzo6JfEbENTTF804",
+        "name": "Parkland",
+        "number": 10,
+        "duration": 214625,
+        "explicit": true
+      },
+      {
+        "id": "6vSJCmEr995GKDdI0xLKW7",
+        "name": "Don't Look Behind You",
+        "number": 11,
+        "duration": 374040,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "1Q9nxD19emMUTTWtFi7jZc", "name": "The Afters" }],
+    "id": "4LWmVkuA2s7n3q3UiIlsFf",
+    "name": "Fear No More",
+    "releaseDate": "2019-05-31",
+    "popularity": 40,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/beee132a4593e43b23e1c59fb62aab835ec30c47",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/5a1ea5b23967b6297452a1fceae356a478103a1c",
+      "width": 64
+    }
+  },
+  {
+    "artists": [{ "id": "2YOYua8FpudSEiB9s88IgQ", "name": "Yung Gravy" }],
+    "id": "6xd9phTkcEIsi1JWhbxZM3",
+    "name": "Sensational",
+    "releaseDate": "2019-05-31",
+    "popularity": 67,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/526a05b575a727e012f3fccc55470d68b951c143",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/24f6c64da57c1a84ec1b7e6c13e96786acc8d05c",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "6HUFOiTIGCizkemQxhQTao",
+        "name": "Gravy For Pope",
+        "number": 1,
+        "duration": 175960,
+        "explicit": true
+      },
+      {
+        "id": "1Uue730zlycJb8dN6n6PHz",
+        "name": "Buttered Up",
+        "number": 2,
+        "duration": 170173,
+        "explicit": true
+      },
+      {
+        "id": "2BfyXyivg20NJ5dgqJfKfL",
+        "name": "Charlene",
+        "number": 3,
+        "duration": 160693,
+        "explicit": true
+      },
+      {
+        "id": "4Mqfhqtb5WmondLWYsCCrz",
+        "name": "The Boys Are Back In Town",
+        "number": 4,
+        "duration": 147906,
+        "explicit": true
+      },
+      {
+        "id": "7qRBXrTLfhdyG7bi6DuURv",
+        "name": "Magic",
+        "number": 5,
+        "duration": 177653,
+        "explicit": true
+      },
+      {
+        "id": "6nsyYPCDUSacgXci9mvWln",
+        "name": "Whip A Tesla",
+        "number": 6,
+        "duration": 153733,
+        "explicit": true
+      },
+      {
+        "id": "6ZyEkJUOrNJhM2ysyK71hw",
+        "name": "Daddy Aioli Interlude",
+        "number": 7,
+        "duration": 85453,
+        "explicit": true
+      },
+      {
+        "id": "3qOkkP9JLltoUvaLjEXTmW",
+        "name": "Gravy Train",
+        "number": 8,
+        "duration": 169600,
+        "explicit": true
+      },
+      {
+        "id": "2XCWxamB0IEFibCn9o4C2D",
+        "name": "E.T.",
+        "number": 9,
+        "duration": 104706,
+        "explicit": true
+      },
+      {
+        "id": "38nyi6J4H44dXpf0PE3bWE",
+        "name": "Alley Oop",
+        "number": 10,
+        "duration": 152186,
+        "explicit": true
+      },
+      {
+        "id": "2nLOfwzuAx6iYSWhngcYmN",
+        "name": "Richard Simmons",
+        "number": 11,
+        "duration": 142906,
+        "explicit": true
+      },
+      {
+        "id": "6wa82QS15QLr3LxwA5CGl4",
+        "name": "Pizzazz",
+        "number": 12,
+        "duration": 165746,
+        "explicit": true
+      },
+      {
+        "id": "7GTGh3P9WThFACswHvn3gA",
+        "name": "1 Thot 2 Thot Red Thot Blue Thot",
+        "number": 13,
+        "duration": 131226,
+        "explicit": true
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "4akybxRTGHJZ1DXjLhJ1qu", "name": "Kirk Franklin" }],
+    "id": "0n0B8fefGF2CiVyNktbapt",
+    "name": "LONG LIVE LOVE",
+    "releaseDate": "2019-05-31",
+    "popularity": 56,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/11d608dd0a687001ab69b6ca33a878e8419a001e",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/c08e3695d88ef838f77dbc445c5f0fabd6f29640",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "7mkUBGYLWcCDO6ypX4ojpj",
+        "name": "F.A.V.O.R",
+        "number": 1,
+        "duration": 271131,
+        "explicit": false
+      },
+      {
+        "id": "2Yfkjb3z3pN9DfS1yE0b3Y",
+        "name": "Love Theory",
+        "number": 2,
+        "duration": 251714,
+        "explicit": false
+      },
+      {
+        "id": "4l6giirX9KqW5PYaNhlful",
+        "name": "Idols",
+        "number": 3,
+        "duration": 206765,
+        "explicit": false
+      },
+      {
+        "id": "37llIA4HTMvM3IvZUVbbC0",
+        "name": "Just for Me",
+        "number": 4,
+        "duration": 275582,
+        "explicit": false
+      },
+      {
+        "id": "5PWXxYsrzyQQNeNwrRmmu2",
+        "name": "Father Knows Best",
+        "number": 5,
+        "duration": 391695,
+        "explicit": false
+      },
+      {
+        "id": "5KC5XsV0BwYyHJkNqx2C7n",
+        "name": "OK",
+        "number": 6,
+        "duration": 236339,
+        "explicit": false
+      },
+      {
+        "id": "7xL1Z3k7YvBTYjkIQrDdle",
+        "name": "Strong God",
+        "number": 7,
+        "duration": 245901,
+        "explicit": false
+      },
+      {
+        "id": "7Jmxi7sehqitV5OEh91bqu",
+        "name": "Forever/Beautiful Grace",
+        "number": 8,
+        "duration": 430580,
+        "explicit": false
+      },
+      {
+        "id": "0ewbZIO2V7SODz28CI4fUq",
+        "name": "Spiritual",
+        "number": 9,
+        "duration": 324081,
+        "explicit": false
+      },
+      {
+        "id": "1n2IpShSXKSVYqZ16OPJtY",
+        "name": "Wynter's Promise",
+        "number": 10,
+        "duration": 346750,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "3Wcyta3gkOdQ4TfY0WyZpu", "name": "YONAKA" }],
+    "id": "20XIFoAtLYdFGnDoqNwnbf",
+    "name": "Don't Wait 'Til Tomorrow",
+    "releaseDate": "2019-05-31",
+    "popularity": 54,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/2f8104624ab399bc3073e7568bf93f0e2945701e",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/151a58753a206ed550c2b2fb73e51aa1f5f4418b",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "5NSXqHamxuUS8LdLBWf87C",
+        "name": "Bad Company",
+        "number": 1,
+        "duration": 236515,
+        "explicit": false
+      },
+      {
+        "id": "2GA746R32EY4uNIaKMc9cg",
+        "name": "Lose Our Heads",
+        "number": 2,
+        "duration": 200902,
+        "explicit": true
+      },
+      {
+        "id": "4KvIr8CrI8V9ZNmw9kp6oV",
+        "name": "Awake",
+        "number": 3,
+        "duration": 234980,
+        "explicit": false
+      },
+      {
+        "id": "5IQsOjMFT0iTPQJx2cSTGg",
+        "name": "Guilty (For Your Love)",
+        "number": 4,
+        "duration": 216549,
+        "explicit": false
+      },
+      {
+        "id": "6XZ8SzOsrIPce5JdgMeJFF",
+        "name": "Rockstar",
+        "number": 5,
+        "duration": 223070,
+        "explicit": true
+      },
+      {
+        "id": "3KFcKLDTG0KuWw3CCAdFFR",
+        "name": "Creature",
+        "number": 6,
+        "duration": 185840,
+        "explicit": false
+      },
+      {
+        "id": "5br9bRQSOg0KNSCAy2sJG3",
+        "name": "Don't Wait 'Til Tomorrow",
+        "number": 7,
+        "duration": 198800,
+        "explicit": false
+      },
+      {
+        "id": "4dW5YBRHvy6PuDl60upoEu",
+        "name": "Punch Bag",
+        "number": 8,
+        "duration": 196946,
+        "explicit": false
+      },
+      {
+        "id": "4MpKB94Mp6RcXULZdks7YD",
+        "name": "Fired Up",
+        "number": 9,
+        "duration": 217675,
+        "explicit": false
+      },
+      {
+        "id": "36PZl4d1IhhgHgLNbXKzSw",
+        "name": "Wake Up",
+        "number": 10,
+        "duration": 218421,
+        "explicit": false
+      },
+      {
+        "id": "1Gudfc0ZZNaYugbW3EcrY6",
+        "name": "The Cure",
+        "number": 11,
+        "duration": 207400,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "0A0FS04o6zMoto8OKPsDwY", "name": "YG" }],
+    "id": "5zuM1EG06X1J7VsIF1omRm",
+    "name": "4REAL 4REAL",
+    "releaseDate": "2019-05-24",
+    "popularity": 80,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/9fc7bb1d56ea1f7912d484fd7a13220de50980f6",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/cbcc053a9374708a964b94e7663243d3b4efd2bb",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "6CX0WrNFDyA5xM3wqWFAZV",
+        "name": "Hard Bottoms & White Socks",
+        "number": 1,
+        "duration": 227906,
+        "explicit": true
+      },
+      {
+        "id": "0MRhKGA87dwWtoit9pQ4xY",
+        "name": "Bottle Service",
+        "number": 2,
+        "duration": 172800,
+        "explicit": true
+      },
+      {
+        "id": "6l26j7uCiDstBiYTuiaInV",
+        "name": "In The Dark",
+        "number": 3,
+        "duration": 191813,
+        "explicit": true
+      },
+      {
+        "id": "1kK6DwzyXJSp58u5HYWwuD",
+        "name": "Go Loko (feat. Tyga, Jon Z)",
+        "number": 4,
+        "duration": 299226,
+        "explicit": true
+      },
+      {
+        "id": "5IjRKZlpKVBBRn0COL7pik",
+        "name": "Stop Snitchin",
+        "number": 5,
+        "duration": 149880,
+        "explicit": true
+      },
+      {
+        "id": "5Eg7NBrJKmyn22nPVaft0E",
+        "name": "I Was On The Block (feat. Valee, Boogie)",
+        "number": 6,
+        "duration": 240720,
+        "explicit": true
+      },
+      {
+        "id": "7Me3i3btcfoCNftr11iKtf",
+        "name": "Keshia Had A Baby (feat. Rose Gold)",
+        "number": 7,
+        "duration": 237520,
+        "explicit": true
+      },
+      {
+        "id": "4DZYw8xlfErmEvjV5BR2I7",
+        "name": "Heart 2 Heart (feat. Meek Mill, Arin Ray, Rose Gold)",
+        "number": 8,
+        "duration": 231080,
+        "explicit": true
+      },
+      {
+        "id": "4WMJQOTXMeBtVCj5YIKcgU",
+        "name": "Play Too Much (feat. SAFE)",
+        "number": 9,
+        "duration": 204026,
+        "explicit": true
+      },
+      {
+        "id": "0nCjciaA68cHNBRA1C8GXN",
+        "name": "Do Not Disturb (feat. Kamaiyah, G-Eazy)",
+        "number": 10,
+        "duration": 185680,
+        "explicit": true
+      },
+      {
+        "id": "4ABM7D05ULpP8CGyuDJ1Yg",
+        "name": "Do Yo Dance (feat. Kamaiyah, RJ, Mitch, Ty Dolla $ign)",
+        "number": 11,
+        "duration": 270106,
+        "explicit": true
+      },
+      {
+        "id": "56HstIDSYUSf7FR9LI9IJQ",
+        "name": "Her Story (feat. Day Sulan)",
+        "number": 12,
+        "duration": 117293,
+        "explicit": true
+      },
+      {
+        "id": "4qavlid0RdUAzQNiJlJxRP",
+        "name": "My Last Words - Nipsey Tribute",
+        "number": 13,
+        "duration": 160893,
+        "explicit": true
+      },
+      {
+        "id": "4rbYZZkMTz1TTty0if3oRv",
+        "name": "Stop Snitchin (feat. DaBaby) - Remix",
+        "number": 14,
+        "duration": 136733,
+        "explicit": true
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "29XOeO6KIWxGthejQqn793", "name": "Flying Lotus" }],
+    "id": "5WfDyog8yO7ZF8JdJxeZfl",
+    "name": "Flamagra",
+    "releaseDate": "2019-05-24",
+    "popularity": 72,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/934609e716e77c26c7578eb5acc9cab7beee176d",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/6ec42e0f7e3f179861170c55bed17883890a32be",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "4d9B8XK0EZ4KVlFg6ULY8l",
+        "name": "Heroes",
+        "number": 1,
+        "duration": 164060,
+        "explicit": false
+      },
+      {
+        "id": "5l25WurqQFTmdBqCLqLZ4Z",
+        "name": "Post Requisite",
+        "number": 2,
+        "duration": 128277,
+        "explicit": false
+      },
+      {
+        "id": "4GffI4aeObhiSwsb17FMqN",
+        "name": "Heroes In A Half Shell",
+        "number": 3,
+        "duration": 77420,
+        "explicit": false
+      },
+      {
+        "id": "5vvxulBeCeY49Ha3JThZMj",
+        "name": "More",
+        "number": 4,
+        "duration": 257587,
+        "explicit": false
+      },
+      {
+        "id": "7k1C70XxpCgCYzn2KhbTpt",
+        "name": "Capillaries",
+        "number": 5,
+        "duration": 114984,
+        "explicit": false
+      },
+      {
+        "id": "0FoVmWBwMGEJZWmHvvBtCT",
+        "name": "Burning Down The House",
+        "number": 6,
+        "duration": 183272,
+        "explicit": false
+      },
+      {
+        "id": "5h3uwxELUVyVpMuLXjdKKV",
+        "name": "Spontaneous",
+        "number": 7,
+        "duration": 128646,
+        "explicit": false
+      },
+      {
+        "id": "7vRfnHlFoZ9CnNhut347AF",
+        "name": "Takashi",
+        "number": 8,
+        "duration": 351687,
+        "explicit": false
+      },
+      {
+        "id": "2XLgLkVbqe99hRK6WT8BVa",
+        "name": "Pilgrim Side Eye",
+        "number": 9,
+        "duration": 90515,
+        "explicit": false
+      },
+      {
+        "id": "4BUucqdpwD58gp9MD4F9EZ",
+        "name": "All Spies",
+        "number": 10,
+        "duration": 105593,
+        "explicit": false
+      },
+      {
+        "id": "6khOQwnrLV7JJU85KbwyH2",
+        "name": "Yellow Belly",
+        "number": 11,
+        "duration": 191784,
+        "explicit": false
+      },
+      {
+        "id": "2csZLnXBMuw6ETZuRxdUZF",
+        "name": "Black Balloons Reprise",
+        "number": 12,
+        "duration": 161971,
+        "explicit": false
+      },
+      {
+        "id": "185ZAmEXHzplBXOWqNtwAa",
+        "name": "Fire Is Coming",
+        "number": 13,
+        "duration": 196216,
+        "explicit": false
+      },
+      {
+        "id": "4ksvv50PSOE0s82WUaz5Dq",
+        "name": "Inside Your Home",
+        "number": 14,
+        "duration": 86622,
+        "explicit": false
+      },
+      {
+        "id": "4K7mFTcBw6G4rWAIt7hdU3",
+        "name": "Actually Virtual",
+        "number": 15,
+        "duration": 118326,
+        "explicit": false
+      },
+      {
+        "id": "46yEQPrtCsPMS3YuVy4XHv",
+        "name": "Andromeda",
+        "number": 16,
+        "duration": 88290,
+        "explicit": false
+      },
+      {
+        "id": "20Yef2VRD3b1jviEJetBLB",
+        "name": "Remind U",
+        "number": 17,
+        "duration": 161564,
+        "explicit": false
+      },
+      {
+        "id": "3b2SEcQjfMuGdHcxCPQxlh",
+        "name": "Say Something",
+        "number": 18,
+        "duration": 75572,
+        "explicit": false
+      },
+      {
+        "id": "7M9fm1ZQKeJptsQG0MXpOW",
+        "name": "Debbie Is Depressed",
+        "number": 19,
+        "duration": 139701,
+        "explicit": false
+      },
+      {
+        "id": "5mwiI2ekFCST3xK4WPfAsu",
+        "name": "Find Your Own Way Home",
+        "number": 20,
+        "duration": 100303,
+        "explicit": false
+      },
+      {
+        "id": "0et8cwwawoxWTwozJiFJl3",
+        "name": "The Climb",
+        "number": 21,
+        "duration": 195781,
+        "explicit": false
+      },
+      {
+        "id": "4GGQzO0FnuInP6GHPNuPEU",
+        "name": "Pygmy",
+        "number": 22,
+        "duration": 84900,
+        "explicit": false
+      },
+      {
+        "id": "2f0VlO0xSJtgt2jkmOJzhT",
+        "name": "9 Carrots",
+        "number": 23,
+        "duration": 181272,
+        "explicit": false
+      },
+      {
+        "id": "4yHLejQxBnufgbFPALQkK3",
+        "name": "FF4",
+        "number": 24,
+        "duration": 71520,
+        "explicit": false
+      },
+      {
+        "id": "1j49Jcm99RNCmFrnRZgliG",
+        "name": "Land Of Honey",
+        "number": 25,
+        "duration": 207994,
+        "explicit": false
+      },
+      {
+        "id": "5idqXfeV9ziFMOceJdfGcx",
+        "name": "Thank U Malcolm",
+        "number": 26,
+        "duration": 92761,
+        "explicit": false
+      },
+      {
+        "id": "44VUR8S9PdMrTVTDDwvmo0",
+        "name": "Hot Oct.",
+        "number": 27,
+        "duration": 275214,
+        "explicit": false
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "57vWImR43h4CaDao012Ofp", "name": "Steve Lacy" }],
+    "id": "3IhDL1HDvlujs6ZcIfL9gE",
+    "name": "Apollo XXI",
+    "releaseDate": "2019-05-24",
+    "popularity": 69,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/9ee135e17d596419c5187e0cdd08c7a6100f69ad",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/776492536b56de1fa1b87116a2e141e52a02163e",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "0AzacpqYhvdOSbFvJ6eCKr",
+        "name": "Only If",
+        "number": 1,
+        "duration": 100562,
+        "explicit": false
+      },
+      {
+        "id": "7AeebdvXcGtJW4tItjdauO",
+        "name": "Like me",
+        "number": 2,
+        "duration": 544026,
+        "explicit": false
+      },
+      {
+        "id": "4IroNECciKcq3M2QtSTus7",
+        "name": "Playground",
+        "number": 3,
+        "duration": 213797,
+        "explicit": false
+      },
+      {
+        "id": "30o8E8pmxyWDVvjud2WE5i",
+        "name": "Basement Jack",
+        "number": 4,
+        "duration": 109818,
+        "explicit": true
+      },
+      {
+        "id": "1omb5x3QAi6sY9yGxvi22V",
+        "name": "Guide",
+        "number": 5,
+        "duration": 141531,
+        "explicit": false
+      },
+      {
+        "id": "2ezzd77TFTHCK2EuV6Y8uF",
+        "name": "Lay Me down",
+        "number": 6,
+        "duration": 183074,
+        "explicit": false
+      },
+      {
+        "id": "6L8EJ6DWUeQ9nsSjGB5KEX",
+        "name": "Hate CD",
+        "number": 7,
+        "duration": 160182,
+        "explicit": false
+      },
+      {
+        "id": "4ROD1HZkO637qa3bSGOSku",
+        "name": "In Lust We Trust",
+        "number": 8,
+        "duration": 120770,
+        "explicit": true
+      },
+      {
+        "id": "7MlAND46qL6L5npwOhbaZK",
+        "name": "Love 2 Fast",
+        "number": 9,
+        "duration": 222981,
+        "explicit": false
+      },
+      {
+        "id": "66nc8Tv8zeo4N9ZSoG3kPI",
+        "name": "Amandla's Interlude",
+        "number": 10,
+        "duration": 190511,
+        "explicit": false
+      },
+      {
+        "id": "24G1PXBWoRgV0wDXZKwxzz",
+        "name": "N Side",
+        "number": 11,
+        "duration": 224444,
+        "explicit": false
+      },
+      {
+        "id": "37wiLIV2spnGipM2NE81yX",
+        "name": "Outro Freestyle/4ever",
+        "number": 12,
+        "duration": 374352,
+        "explicit": true
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "5Vuvs6Py2JRU7WiFDVsI7J", "name": "Lucky Daye" }],
+    "id": "0sxfu0XUwHOtnKiZgkTQwk",
+    "name": "Painted",
+    "releaseDate": "2019-05-24",
+    "popularity": 59,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/c1e9dd69dd62a77546f7b8db687b6a4f7fa718ed",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/f9242ab472eaf5721f374e47140b578751d5436f",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "1sQBPGypjSgEgJZvD8u8ty",
+        "name": "Roll Some Mo",
+        "number": 1,
+        "duration": 292884,
+        "explicit": false
+      },
+      {
+        "id": "1Fwppfa2qKDAETKveNFsHR",
+        "name": "Late Night",
+        "number": 2,
+        "duration": 237517,
+        "explicit": false
+      },
+      {
+        "id": "4ACRXHoiz3J2JHG8DL4Z6X",
+        "name": "Extra",
+        "number": 3,
+        "duration": 353719,
+        "explicit": true
+      },
+      {
+        "id": "2RxbUs1UfebXymMwrAKZVB",
+        "name": "Concentrate",
+        "number": 4,
+        "duration": 216146,
+        "explicit": true
+      },
+      {
+        "id": "5bNXZ2fZx0SX42l7GeWY25",
+        "name": "Ready For Love (Interlude)",
+        "number": 5,
+        "duration": 109786,
+        "explicit": true
+      },
+      {
+        "id": "0xB7i2AhQZT7nnor7rb15L",
+        "name": "Karma",
+        "number": 6,
+        "duration": 184284,
+        "explicit": true
+      },
+      {
+        "id": "118vnrWTfc2QzsmIQHCUkd",
+        "name": "Paint It",
+        "number": 7,
+        "duration": 252197,
+        "explicit": true
+      },
+      {
+        "id": "4c3d0xt7rUFDV7EnnRYi4i",
+        "name": "Real Games",
+        "number": 8,
+        "duration": 331307,
+        "explicit": true
+      },
+      {
+        "id": "6zsT60ALu2xeljCWRp3rEs",
+        "name": "Misunderstood",
+        "number": 9,
+        "duration": 247385,
+        "explicit": true
+      },
+      {
+        "id": "76E28NSlJpO8Ee5qKuN85v",
+        "name": "Floods",
+        "number": 10,
+        "duration": 325818,
+        "explicit": false
+      },
+      {
+        "id": "4tvw503IOIq9uc0QNYVey2",
+        "name": "Call",
+        "number": 11,
+        "duration": 211945,
+        "explicit": false
+      },
+      {
+        "id": "3Ays4xPGjU0np0wkv4h5om",
+        "name": "Try Your Fire",
+        "number": 12,
+        "duration": 257557,
+        "explicit": false
+      },
+      {
+        "id": "4XjnaL1dDauhuvNFz1SLwW",
+        "name": "Love You Too Much",
+        "number": 13,
+        "duration": 465816,
+        "explicit": true
+      }
+    ]
+  },
+  {
+    "artists": [{ "id": "3tJoFztHeIJkJWMrx0td2f", "name": "Moneybagg Yo" }],
+    "id": "1DMa1o7j2548zVFXRzRe7f",
+    "name": "43VA HEARTLESS",
+    "releaseDate": "2019-05-24",
+    "popularity": 72,
+    "image": {
+      "height": 640,
+      "url": "https://i.scdn.co/image/a29266d3acacf23beab3530c8023c959011fa19e",
+      "width": 640
+    },
+    "thumbnail": {
+      "height": 64,
+      "url": "https://i.scdn.co/image/3a748c0fd86408f705c3bcb646d61f018ddb0992",
+      "width": 64
+    },
+    "tracks": [
+      {
+        "id": "6uWaErhSQM176jluMQCuD7",
+        "name": "Relentless Again",
+        "number": 1,
+        "duration": 162809,
+        "explicit": true
+      },
+      {
+        "id": "1P8EwM4FD6O5quWD4z244A",
+        "name": "Drais",
+        "number": 2,
+        "duration": 165018,
+        "explicit": true
+      },
+      {
+        "id": "683tYxiTlWzupDpaZ2mCv4",
+        "name": "Dior (feat. Gunna)",
+        "number": 3,
+        "duration": 173396,
+        "explicit": true
+      },
+      {
+        "id": "4I3Dyrfy3uxAPzCHqBKcqg",
+        "name": "Part Of Da Game",
+        "number": 4,
+        "duration": 179760,
+        "explicit": true
+      },
+      {
+        "id": "4ZJvxJYTeA719NrCtKE8gU",
+        "name": "4 Da Moment (feat. City Girls)",
+        "number": 5,
+        "duration": 142395,
+        "explicit": true
+      },
+      {
+        "id": "6uwHP5fI8MiotQgiNWOfPp",
+        "name": "Toxic",
+        "number": 6,
+        "duration": 153827,
+        "explicit": true
+      },
+      {
+        "id": "7JuB63pWkmxIxSazNB6F5m",
+        "name": "Style Ain’t Free (feat. Offset)",
+        "number": 7,
+        "duration": 155283,
+        "explicit": true
+      },
+      {
+        "id": "3inCHKMqkGpK7sH5DA9P03",
+        "name": "On My Soul (feat. Lil Durk)",
+        "number": 8,
+        "duration": 175014,
+        "explicit": true
+      },
+      {
+        "id": "4kGKvPLGQXn4X8gWm35cSn",
+        "name": "No Filter",
+        "number": 9,
+        "duration": 170486,
+        "explicit": true
+      },
+      {
+        "id": "6TozyNRgQKwIuIf3xOuTx7",
+        "name": "Commotion",
+        "number": 10,
+        "duration": 192207,
+        "explicit": true
+      },
+      {
+        "id": "1g2iVEJg8JUopMqu6TkZeS",
+        "name": "Blac Money (feat. Blac Youngsta)",
+        "number": 11,
+        "duration": 204916,
+        "explicit": true
+      },
+      {
+        "id": "0Ys4jRPeQWfe4mMmoTgK9r",
+        "name": "Wat3va I’m Wit",
+        "number": 12,
+        "duration": 195111,
+        "explicit": true
+      },
+      {
+        "id": "0Tuxvc11PSg4SyImVQYO4J",
+        "name": "Headstrong (feat. Kevin Gates)",
+        "number": 13,
+        "duration": 151714,
+        "explicit": true
+      },
+      {
+        "id": "1z8QbRI9w0F4ny1ipjZv3N",
+        "name": "Word 4 Word",
+        "number": 14,
+        "duration": 205274,
+        "explicit": true
+      }
+    ]
+  }
+]
