@@ -11,7 +11,8 @@ import sampleData from "./album_data.json";
 class App extends Component {
 
   state = {
-    sampleData: sampleData
+    sampleData: sampleData,
+    view: "cards"
   }
 
   // componentDidMount() {
@@ -21,6 +22,10 @@ class App extends Component {
   //     this.setState({sampleData: albumData})
   //   })
   // }
+
+  toggleView = (e) => {
+    this.setState({ view: e.target.getAttribute("name") })
+  }
 
   render() {
     return (
@@ -44,7 +49,12 @@ class App extends Component {
                 />
                 <Route
                   path="/albums"
-                  render={() => <AlbumsPage albums={this.state.sampleData} />}
+                  render={() => (
+                    <AlbumsPage
+                      albums={this.state.sampleData}
+                      toggleView={this.toggleView}
+                      view={this.state.view}/>
+                  )}
                 />
                 <Route render={() => <Redirect to="/albums" />} />
               </Switch>
