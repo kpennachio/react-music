@@ -9,6 +9,19 @@ import AlbumsPage from "./components/AlbumsPage";
 import sampleData from "./album_data.json";
 
 class App extends Component {
+
+  state = {
+    sampleData: sampleData
+  }
+
+  // componentDidMount() {
+  //   fetch("http://prototypes.inamoto.co/album_data.json")
+  //   .then(resp => resp.json())
+  //   .then(albumData => {
+  //     this.setState({sampleData: albumData})
+  //   })
+  // }
+
   render() {
     return (
       <div>
@@ -22,7 +35,7 @@ class App extends Component {
                   render={props => (
                     <AlbumDetail
                       album={
-                        sampleData.filter(
+                        this.state.sampleData.filter(
                           album => album.id === props.match.params.albumId
                         )[0]
                       }
@@ -31,7 +44,7 @@ class App extends Component {
                 />
                 <Route
                   path="/albums"
-                  render={() => <AlbumsPage albums={sampleData} />}
+                  render={() => <AlbumsPage albums={this.state.sampleData} />}
                 />
                 <Route render={() => <Redirect to="/albums" />} />
               </Switch>
