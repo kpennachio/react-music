@@ -12,14 +12,18 @@ class App extends Component {
 
   state = {
     sampleData: sampleData,
-    view: "cards"
+    view: "cards",
+    loading: false
   }
 
   // componentDidMount() {
   //   fetch("http://prototypes.inamoto.co/album_data.json")
   //   .then(resp => resp.json())
   //   .then(albumData => {
-  //     this.setState({sampleData: albumData})
+  //     this.setState({
+  //         sampleData: albumData,
+  //         loading: false
+  //       })
   //   })
   // }
 
@@ -53,7 +57,9 @@ class App extends Component {
                     <AlbumsPage
                       albums={this.state.sampleData}
                       toggleView={this.toggleView}
-                      view={this.state.view}/>
+                      view={this.state.view}
+                      loading={this.state.loading}
+                    />
                   )}
                 />
                 <Route render={() => <Redirect to="/albums" />} />

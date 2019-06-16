@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import AlbumCards from "./AlbumCards";
 import AlbumTable from "./AlbumTable";
+import Loading from "./Loading";
 
 class AlbumsPage extends Component {
 
@@ -31,10 +32,13 @@ class AlbumsPage extends Component {
               </div>
             </div>
           </div>
-          { this.props.view === "cards" ?
-            <AlbumCards albums={this.props.albums} />
+          { this.props.loading ?
+            < Loading />
             :
-            <AlbumTable albums={this.props.albums} />
+            this.props.view === "cards" ?
+              <AlbumCards albums={this.props.albums} />
+              :
+              <AlbumTable albums={this.props.albums} />
           }
         </div>
       </section>
