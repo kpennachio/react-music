@@ -13,6 +13,8 @@ class AlbumPopularity extends Component {
     this.findStarCount()
   }
 
+  // determine count of stars (a) and empty stars (b) for album
+  // a + b = 10
   findStarCount = () => {
     let popularity = this.props.popularity
     let a = 0
@@ -42,7 +44,6 @@ class AlbumPopularity extends Component {
   }
 
 
-
   render() {
     return (
       <span>
@@ -50,13 +51,6 @@ class AlbumPopularity extends Component {
       {this.renderEmptyStars()}
       </span>
     )
-
-
-    // HTML special character for solid star
-    //<span>	&#9733; </span>
-
-    // HTML special character for outlined star
-    //<span> &#9734; </span>
   }
 }
 

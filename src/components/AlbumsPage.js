@@ -5,6 +5,8 @@ import Loading from "./Loading";
 
 class AlbumsPage extends Component {
 
+  // cards view / table view button
+  // changes button styling based on which button was last clicked
   buttonClass = (name) => {
     return this.props.view === name ? "button is-selected is-primary" : "button"
   }
