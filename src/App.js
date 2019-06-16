@@ -6,27 +6,35 @@ import "bulma/css/bulma.css";
 import Navbar from "./components/Navbar";
 import AlbumDetail from "./components/AlbumDetail";
 import AlbumsPage from "./components/AlbumsPage";
-import sampleData from "./album_data.json";
 
 class App extends Component {
 
   state = {
-    sampleData: sampleData,
+    sampleData: [],
     view: "cards",
-    loading: false
+    loading: true
   }
 
-  // componentDidMount() {
-  //   fetch("http://prototypes.inamoto.co/album_data.json")
-  //   .then(resp => resp.json())
-  //   .then(albumData => {
-  //     this.setState({
-  //         sampleData: albumData,
-  //         loading: false
-  //       })
-  //   })
-  // }
+  componentDidMount() {
+    // uncomment line below to simulate delay in response - loading component will render
+    // setTimeout(this.getAlbums, 3000)
+    this.getAlbums()
+  }
 
+  // get album data and save in state
+  // change loading to false because data is available
+  getAlbums = () => {
+    fetch("http://prototypes.inamoto.co/album_data.json")
+    .then(resp => resp.json())
+    .then(albumData => {
+      this.setState({
+          sampleData: albumData,
+          loading: false
+        })
+    })
+  }
+
+  // change view  - album "cards" or album "table"
   toggleView = (e) => {
     this.setState({ view: e.target.getAttribute("name") })
   }
